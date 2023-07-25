@@ -1,0 +1,17 @@
+[
+  {
+    "hp_to_count": 2,
+    "event_interval": 20,
+    "num_maximum": 50
+  },
+  {
+    "hp_to_count": 5,
+    "event_interval": 0,
+    "num_maximum": 100
+  },
+  {
+    "hp_to_count": 10,
+    "event_interval": 0,
+    "num_maximum": 200
+  }
+]

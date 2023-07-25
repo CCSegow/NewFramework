@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26152d180b4997640a60c771c1663c4e, type: 3}
+  m_Name: Messages
+  m_EditorClassIdentifier: 
+  Name: "\u4FE1\u606F"
+  Stats:
+  - Name: "\u6E38\u620F\u5F00\u59CB"
+    Describe: 
+    Chinese: "\u6E38\u620F\u5F00\u59CB"
+    Traditional_Chinese: "\u904A\u6232\u958B\u59CB"
+    English: Game Start
+    Japanese: "\u30B2\u30FC\u30E0\u304C\u59CB\u307E\u308A\u307E\u3059"
+  - Name: "\u8DDD\u79BB\u76EE\u6807\u8FD8\u6709{0}\u7C73"
+    Describe: 
+    Chinese: "\u8DDD\u79BB\u76EE\u6807\u8FD8\u6709{0}\u7C73"
+    Traditional_Chinese: "\u8DDD\u96E2\u76EE\u6A19\u9084\u6709{0}\u7C73"
+    English: '{0} meters to the target'
+    Japanese: "\u30BF\u30FC\u30B2\u30C3\u30C8\u307E\u3067{0}\u30E1\u30FC\u30C8\u30EB"

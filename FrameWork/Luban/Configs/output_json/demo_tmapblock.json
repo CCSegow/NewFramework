@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10101,
+    "path": "Assets/Bundles/Prefabs/Map/MapBlock.prefab",
+    "name": "测试关地图块1",
+    "desc": "测试关地图块1"
+  },
+  {
+    "id": 10102,
+    "path": "Assets/Bundles/Prefabs/Map/MapBlock.prefab",
+    "name": "测试关地图块2",
+    "desc": "测试关地图块2"
+  },
+  {
+    "id": 10103,
+    "path": "Assets/Bundles/Prefabs/Map/MapBlock.prefab",
+    "name": "测试关地图块3",
+    "desc": "测试关地图块3"
+  }
+]

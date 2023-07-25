@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d4894a1a13447f0b1b66e14418ef4e6, type: 3}
+  m_Name: BuildConfig
+  m_EditorClassIdentifier: 
+  BuildSettings:
+  - Name: "\u5355\u673A\u5305\uFF08\u5B89\u5353\uFF09"
+    HotfixConfig:
+      BuildCommand: HybridCLR/Generate/All
+      BuildTarget: 13
+      CopyAOTDll: 1
+    BundleBuildSetting:
+      BuildMode: 0
+      Version: 
+      BuildPackage: DefaultPackage
+      IsCoverExit: 0
+      IsCopyToLocalServer: 0
+      CopyBuildAssetOption: 1
+      CopyTags: 
+      ServerPath: 
+    AppBuildSetting:
+      companyName: YimiStudio
+      appName: "\u6D4B\u8BD5"
+      applicationIdentifier: com.YimiStudio.demo
+      appVersion: 1.0.0.0
+      bundleVersionCode: 10000
+      DevelopBuild: 0
+      PlayMode: 0
+      BuildTarget: 0
+      OutputPath: ../Builds/Test
+      SymbolsDefs:
+        buildTarget: 13
+        symbols:
+        - OFFLINE_MODE
+  - Name: "\u5355\u673A\u5305\uFF08Window\uFF09"
+    HotfixConfig:
+      BuildCommand: HybridCLR/Generate/All
+      BuildTarget: 19
+      CopyAOTDll: 1
+    BundleBuildSetting:
+      BuildMode: 0
+      Version: v1.0
+      BuildPackage: DefaultPackage
+      IsCoverExit: 1
+      IsCopyToLocalServer: 0
+      CopyBuildAssetOption: 1
+      CopyTags: 
+      ServerPath: 
+    AppBuildSetting:
+      companyName: YimiStudio
+      appName: "\u6D4B\u8BD5"
+      applicationIdentifier: com.YimiStudio.demo
+      appVersion: 1.0.0.0
+      bundleVersionCode: 10000
+      DevelopBuild: 0
+      PlayMode: 0
+      BuildTarget: 2
+      OutputPath: ../Builds/Test
+      SymbolsDefs:
+        buildTarget: 19
+        symbols:
+        - OFFLINE_MODE

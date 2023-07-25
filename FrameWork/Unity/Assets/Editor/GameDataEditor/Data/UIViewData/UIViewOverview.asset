@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab381ae12b3d42f1a8fef601e470c481, type: 3}
+  m_Name: UIViewOverview
+  m_EditorClassIdentifier: 
+  AllDatas:
+  - {fileID: 11400000, guid: 10b425553b0c0b0499ede820dc44a63a, type: 2}
+  - {fileID: 11400000, guid: 0306fef6daa3be041ad715f637c7eb1f, type: 2}
+  - {fileID: 11400000, guid: f4cc84c5a8131cb44bea13adf9a65fc9, type: 2}
+  - {fileID: 11400000, guid: 555703528ce0b3c4c8c6549df183068a, type: 2}
+  - {fileID: 11400000, guid: 05e964bcd65f79f48b365f773f130055, type: 2}
+  - {fileID: 11400000, guid: c4c3fe2779c07c84e975ce37ed86c83c, type: 2}
+  - {fileID: 11400000, guid: 2e28f3f3ab53c7d4886703afdf9eea0c, type: 2}
+  UIObject: {fileID: 864632622366586788, guid: 0586a05bc8ae5494a91666c564133d52, type: 3}
+  ExportPath: 
+  UIViewSetting: {fileID: 11400000, guid: 60df4e90297bf39409e4f609a6976ad3, type: 2}

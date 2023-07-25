@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1306394526
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80819928c070a6df5413da2bc83ab611
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a668048e0e4edcd556bb68b7892b3700
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5edcab269b18f40bb4f63da1896ddd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 804626d53df440c4abfdda97ecf30827, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Prefabs/UI/UIRoot.prefab
+Dependencies:
+- G:/Unity/ZeroFramework/Unity/Bundles/DefaultPackage/StandaloneWindows64/OutputCache/assets_bundles_configs_ui.bundle

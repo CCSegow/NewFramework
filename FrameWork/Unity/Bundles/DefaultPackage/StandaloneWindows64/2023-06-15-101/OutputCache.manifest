@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 108155037
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_bundles_prefabs_ui_loginview.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_bundles_prefabs_ui_mainview.bundle
+      Dependencies:
+        Dependency_0: share_assets_textmesh pro_resources_fonts & materials.bundle
+    Info_2:
+      Name: assets_bundles_prefabs_ui_pop_tips.bundle
+      Dependencies:
+        Dependency_0: share_assets_textmesh pro_resources_fonts & materials.bundle
+    Info_3:
+      Name: assets_bundles_prefabs_ui_uiroot.bundle
+      Dependencies:
+        Dependency_0: assets_bundles_configs_ui.bundle
+    Info_4:
+      Name: assets_bundles_configs_ui.bundle
+      Dependencies: {}
+    Info_5:
+      Name: assets_bundles_scenes_launch.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assets_bundles_prefabs_logic.bundle
+      Dependencies: {}
+    Info_7:
+      Name: share_packages_com.unity.textmeshpro_editor resources_gizmos.bundle
+      Dependencies: {}
+    Info_8:
+      Name: unityshaders.bundle
+      Dependencies: {}
+    Info_9:
+      Name: share_assets_textmesh pro_resources_fonts & materials.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+        Dependency_1: share_assets_textmesh pro_fonts.bundle
+    Info_10:
+      Name: share_assets_textmesh pro_fonts.bundle
+      Dependencies: {}

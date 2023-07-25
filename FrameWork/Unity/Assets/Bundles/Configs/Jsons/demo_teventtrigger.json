@@ -1,0 +1,72 @@
+[
+  {
+    "id": 10101,
+    "event_path": "Assets/Bundles/Prefabs/Map/BuffEvent.prefab",
+    "name": "buff",
+    "desc": "加",
+    "Ltype": 0,
+    "Lvalue": 2,
+    "Rtype": 1,
+    "Rvalue": 2
+  },
+  {
+    "id": 10102,
+    "event_path": "Assets/Bundles/Prefabs/Map/BuffEvent.prefab",
+    "name": "buff",
+    "desc": "减",
+    "Ltype": 1,
+    "Lvalue": 2,
+    "Rtype": 0,
+    "Rvalue": 2
+  },
+  {
+    "id": 10103,
+    "event_path": "Assets/Bundles/Prefabs/Map/BuffEvent.prefab",
+    "name": "buff",
+    "desc": "乘",
+    "Ltype": 2,
+    "Lvalue": 4,
+    "Rtype": 2,
+    "Rvalue": 2
+  },
+  {
+    "id": 10104,
+    "event_path": "Assets/Bundles/Prefabs/Map/BuffEvent.prefab",
+    "name": "buff",
+    "desc": "除",
+    "Ltype": 3,
+    "Lvalue": 2,
+    "Rtype": 3,
+    "Rvalue": 3
+  },
+  {
+    "id": 10105,
+    "event_path": "Assets/Bundles/Prefabs/Map/MonsterEvent.prefab",
+    "name": "怪物",
+    "desc": "怪物",
+    "Ltype": 4,
+    "Lvalue": 30,
+    "Rtype": 0,
+    "Rvalue": 0
+  },
+  {
+    "id": 10106,
+    "event_path": "Assets/Bundles/Prefabs/Map/MonsterEvent.prefab",
+    "name": "首领",
+    "desc": "首领",
+    "Ltype": 5,
+    "Lvalue": 50,
+    "Rtype": 0,
+    "Rvalue": 0
+  },
+  {
+    "id": 10107,
+    "event_path": "Assets/Bundles/Prefabs/Map/R_ObstacleEvent.prefab",
+    "name": "障碍物",
+    "desc": "障碍物",
+    "Ltype": 6,
+    "Lvalue": -1,
+    "Rtype": 0,
+    "Rvalue": 0
+  }
+]

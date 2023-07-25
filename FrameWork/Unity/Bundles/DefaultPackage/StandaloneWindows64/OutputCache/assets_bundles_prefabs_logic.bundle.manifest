@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 866306760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 547b7a84478d333ac038f5712459be96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5eb77a2c6ee98f021b628fd1457b2798
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63cc6730af3714f5d9c4ed044bac367b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Prefabs/Logic/Launcher.prefab
+Dependencies: []

@@ -1,0 +1,13 @@
+{
+    "name": "com.tools.srdebugge",
+    "displayName": "StompyRobot",
+    "version": "1.12.1",
+    "unity": "2021.2",
+    "unityRelease": "11f1",
+    "description": "This is a template package, used as a basis to build a bigger one.",
+    "category": "Tool",    
+    "license": "MIT",
+    "keywords": [
+      "Tool"
+    ]    
+  }

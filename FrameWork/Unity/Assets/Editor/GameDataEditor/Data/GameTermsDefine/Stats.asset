@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26152d180b4997640a60c771c1663c4e, type: 3}
+  m_Name: Stats
+  m_EditorClassIdentifier: 
+  Name: "\u57FA\u7840\u5C5E\u6027"
+  Stats:
+  - Name: Hp
+    Describe: "\u8840\u91CF"
+    Chinese: Hp
+    Traditional_Chinese: Hp
+    English: Hp
+    Japanese: Hp
+  - Name: Mp
+    Describe: "\u80FD\u91CF"
+    Chinese: Mp
+    Traditional_Chinese: Mp
+    English: Mp
+    Japanese: Mp
+  - Name: Atk
+    Describe: "\u653B\u51FB\u529B"
+    Chinese: Atk
+    Traditional_Chinese: Atk
+    English: Atk
+    Japanese: Atk
+  - Name: Lv
+    Describe: "\u7B49\u7EA7"
+    Chinese: Lv
+    Traditional_Chinese: Lv
+    English: Lv
+    Japanese: Lv
+  - Name: Exp
+    Describe: "\u7ECF\u9A8C"
+    Chinese: Exp
+    Traditional_Chinese: Exp
+    English: Exp
+    Japanese: Exp

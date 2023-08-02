@@ -1,0 +1,521 @@
+{
+    "Summary": {
+        "YooVersion": "1.3.7",
+        "UnityVersion": "2022.3.2f1",
+        "BuildDate": "2023/7/31 10:17:54",
+        "BuildSeconds": 5,
+        "BuildTarget": 13,
+        "BuildPipeline": 0,
+        "BuildMode": 0,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "1.0",
+        "EnableAddressable": false,
+        "UniqueBundleName": false,
+        "EncryptionServicesClassName": "BuildTool.EncryptionNone",
+        "OutputNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 33,
+        "MainAssetTotalCount": 20,
+        "AllBundleTotalCount": 24,
+        "AllBundleTotalSize": 6506613,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 11,
+        "RawBundleTotalSize": 2930121
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Prefabs/UI/LoadingView.prefab",
+            "AssetGUID": "4d945a2980a9d6649902479462d6f9cd",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_ui_loadingview.bundle",
+            "MainBundleSize": 11107,
+            "DependBundles": [
+                "share_packages_com.unity.textmeshpro_editor resources_gizmos.bundle",
+                "unityshaders.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "share_assets_textmesh pro_fonts.bundle"
+            ],
+            "DependAssets": [
+                "Packages/com.tools.srdebugge/StompyRobot/SRDebugger/UI/Sprites/Default/RoundedCorner-2px@2x.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Prefabs/UI/LoginView.prefab",
+            "AssetGUID": "ac938672fbd4e7d4390325a692ff986e",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_ui_loginview.bundle",
+            "MainBundleSize": 9608,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Prefabs/UI/MainView.prefab",
+            "AssetGUID": "2bafeb45ec6ceb545906e47ed0e20de6",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_ui_mainview.bundle",
+            "MainBundleSize": 2511801,
+            "DependBundles": [
+                "unityshaders.bundle",
+                "share_packages_com.unity.textmeshpro_editor resources_gizmos.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "share_assets_textmesh pro_fonts.bundle"
+            ],
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/Bundles/Font/NotoSansSC-Regular SDF.asset",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/Bundles/Font/NotoSansSC-Regular.otf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Prefabs/UI/PopTipsView.prefab",
+            "AssetGUID": "3149eb87bc46b334192850b348b6e9e9",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_ui_poptipsview.bundle",
+            "MainBundleSize": 12760,
+            "DependBundles": [
+                "unityshaders.bundle",
+                "share_packages_com.unity.textmeshpro_editor resources_gizmos.bundle",
+                "share_assets_textmesh pro_resources_fonts & materials.bundle",
+                "share_assets_textmesh pro_fonts.bundle"
+            ],
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_iconconflictresolvedoverlay@2x.png",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Prefabs/UI/UIRoot.prefab",
+            "AssetGUID": "beb1d8e489a82c845a1b653b183b80e4",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_ui_uiroot.bundle",
+            "MainBundleSize": 5530,
+            "DependBundles": [
+                "assets_bundles_configs_ui.bundle"
+            ],
+            "DependAssets": [
+                "Assets/Bundles/Configs/UI/UIViewSetting.asset"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Configs/UI/UIViewSetting.asset",
+            "AssetGUID": "60df4e90297bf39409e4f609a6976ad3",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs_ui.bundle",
+            "MainBundleSize": 2068,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Scenes/Launch.unity",
+            "AssetGUID": "9fc0d4010bbf28b4594072e72b8655ab",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_scenes_launch.bundle",
+            "MainBundleSize": 73316,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/Editor/GameDataEditor/Data/URLConfigs/URLConfig.asset"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Scenes/level0.unity",
+            "AssetGUID": "cbf022c599f09cc42ae1321c61801662",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_scenes_level0.bundle",
+            "MainBundleSize": 307996,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/ArtWorks/Materials/GridGround.mat"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Prefabs/Logic/Launcher.prefab",
+            "AssetGUID": "5d7a3f41632559441ab82f556bbed46c",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_prefabs_logic.bundle",
+            "MainBundleSize": 2326,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/Hotfix.dll.bytes",
+            "AssetGUID": "8937c6c79cef0f94fa27aee5859cc716",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_code_hotfix_dll_bytes.rawfile",
+            "MainBundleSize": 26624,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/mscorlib.dll.bytes",
+            "AssetGUID": "b4bcb338e3be1ad4fb65d3b4695efe84",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_code_mscorlib_dll_bytes.rawfile",
+            "MainBundleSize": 2172928,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/System.Core.dll.bytes",
+            "AssetGUID": "a90aba3c5944e064bbbda08c1e0efbf8",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_code_system_core_dll_bytes.rawfile",
+            "MainBundleSize": 59392,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/System.dll.bytes",
+            "AssetGUID": "acf9e9573eaa45740924adfbaaa0fe37",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_code_system_dll_bytes.rawfile",
+            "MainBundleSize": 624640,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Code/ZFrameWork.Core.dll.bytes",
+            "AssetGUID": "44763fa3d7ed4094cb72eda9312a3c38",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_code_zframework_core_dll_bytes.rawfile",
+            "MainBundleSize": 38912,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Configs/Jsons/gift_tbshellgifts.json",
+            "AssetGUID": "8418545a026487d45bca6614807ac04c",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs_jsons_gift_tbshellgifts_json.rawfile",
+            "MainBundleSize": 1039,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Configs/Jsons/item_tbitem.json",
+            "AssetGUID": "89b7a3d43dbe64d419181eb917512ae5",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs_jsons_item_tbitem_json.rawfile",
+            "MainBundleSize": 4795,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Configs/Jsons/weapon_tbweapon.json",
+            "AssetGUID": "58d96f4a916dc864db5a781d20a0be71",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs_jsons_weapon_tbweapon_json.rawfile",
+            "MainBundleSize": 1073,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Configs/Bytes/gift_tbshellgifts.bytes",
+            "AssetGUID": "ef0bc9ac6f6c0c64d940c4f8a4692ab1",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs_bytes_gift_tbshellgifts_bytes.rawfile",
+            "MainBundleSize": 117,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Configs/Bytes/item_tbitem.bytes",
+            "AssetGUID": "83de04feab754d441b740245a3aa0524",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs_bytes_item_tbitem_bytes.rawfile",
+            "MainBundleSize": 450,
+            "DependBundles": [],
+            "DependAssets": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/Bundles/Configs/Bytes/weapon_tbweapon.bytes",
+            "AssetGUID": "97a01bcdf17f1d049926b9ad116a74cb",
+            "AssetTags": [],
+            "MainBundleName": "assets_bundles_configs_bytes_weapon_tbweapon_bytes.rawfile",
+            "MainBundleSize": 151,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_bundles_prefabs_ui_loadingview.bundle",
+            "FileName": "c1cd16f9a3d425ed977227cbc9005b91",
+            "FileHash": "c1cd16f9a3d425ed977227cbc9005b91",
+            "FileCRC": "0ad8686e",
+            "FileSize": 11107,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_ui_loginview.bundle",
+            "FileName": "4cc0546eb1e5f3266cc97c0e2c576f27",
+            "FileHash": "4cc0546eb1e5f3266cc97c0e2c576f27",
+            "FileCRC": "d47dd355",
+            "FileSize": 9608,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_ui_mainview.bundle",
+            "FileName": "bffc7beb4ddc4ba7090e11cb43e8749f",
+            "FileHash": "bffc7beb4ddc4ba7090e11cb43e8749f",
+            "FileCRC": "0182cc83",
+            "FileSize": 2511801,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_ui_poptipsview.bundle",
+            "FileName": "b5dc370ca1d3be3d2c5e38d3b1981b68",
+            "FileHash": "b5dc370ca1d3be3d2c5e38d3b1981b68",
+            "FileCRC": "3e6fcdda",
+            "FileSize": 12760,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_ui_uiroot.bundle",
+            "FileName": "491980635e6a97dd188246ad7d1e50ec",
+            "FileHash": "491980635e6a97dd188246ad7d1e50ec",
+            "FileCRC": "42793911",
+            "FileSize": 5530,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_configs_ui.bundle",
+            "FileName": "d65acd27313f3f3bda90a8f415278732",
+            "FileHash": "d65acd27313f3f3bda90a8f415278732",
+            "FileCRC": "4a8732f0",
+            "FileSize": 2068,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_scenes_launch.bundle",
+            "FileName": "bfe58eda4d731ce8fcdfb07a0958fef7",
+            "FileHash": "bfe58eda4d731ce8fcdfb07a0958fef7",
+            "FileCRC": "24d4affc",
+            "FileSize": 73316,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_scenes_level0.bundle",
+            "FileName": "899b08aab650e72ad9ea1fd1d9a4b117",
+            "FileHash": "899b08aab650e72ad9ea1fd1d9a4b117",
+            "FileCRC": "89160202",
+            "FileSize": 307996,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_prefabs_logic.bundle",
+            "FileName": "32b0c3570f1431ebaf5c6c56b516a276",
+            "FileHash": "32b0c3570f1431ebaf5c6c56b516a276",
+            "FileCRC": "cb2b83e7",
+            "FileSize": 2326,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_code_hotfix_dll_bytes.rawfile",
+            "FileName": "a249c7664eb0ab89347cf01335ffb23a",
+            "FileHash": "a249c7664eb0ab89347cf01335ffb23a",
+            "FileCRC": "e254e12c",
+            "FileSize": 26624,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_code_mscorlib_dll_bytes.rawfile",
+            "FileName": "609ecbcf58454570d2bfc049657f655d",
+            "FileHash": "609ecbcf58454570d2bfc049657f655d",
+            "FileCRC": "8bc66b6e",
+            "FileSize": 2172928,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_code_system_core_dll_bytes.rawfile",
+            "FileName": "cec30cc4e7bbcf132ffb5baf65c66c69",
+            "FileHash": "cec30cc4e7bbcf132ffb5baf65c66c69",
+            "FileCRC": "dfd13ac1",
+            "FileSize": 59392,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_code_system_dll_bytes.rawfile",
+            "FileName": "05d27920ad7acc678514ed1c50049bb6",
+            "FileHash": "05d27920ad7acc678514ed1c50049bb6",
+            "FileCRC": "09ccb708",
+            "FileSize": 624640,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_code_zframework_core_dll_bytes.rawfile",
+            "FileName": "98eb33df78477387414d651fdea79572",
+            "FileHash": "98eb33df78477387414d651fdea79572",
+            "FileCRC": "4a5b9268",
+            "FileSize": 38912,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_configs_jsons_gift_tbshellgifts_json.rawfile",
+            "FileName": "29b855472dd5afb6f38a0e52321dbcf4",
+            "FileHash": "29b855472dd5afb6f38a0e52321dbcf4",
+            "FileCRC": "371931d2",
+            "FileSize": 1039,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_configs_jsons_item_tbitem_json.rawfile",
+            "FileName": "107ddc4a7c90b68ec4cb824b675f187e",
+            "FileHash": "107ddc4a7c90b68ec4cb824b675f187e",
+            "FileCRC": "29b478db",
+            "FileSize": 4795,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_configs_jsons_weapon_tbweapon_json.rawfile",
+            "FileName": "9baf085cd9977b9b22b7809124f05053",
+            "FileHash": "9baf085cd9977b9b22b7809124f05053",
+            "FileCRC": "e80915cb",
+            "FileSize": 1073,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_configs_bytes_gift_tbshellgifts_bytes.rawfile",
+            "FileName": "deb8ae98eba58e325a2812675e53940c",
+            "FileHash": "deb8ae98eba58e325a2812675e53940c",
+            "FileCRC": "7668fd38",
+            "FileSize": 117,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_configs_bytes_item_tbitem_bytes.rawfile",
+            "FileName": "3e68029a05710192ed05be1c0a596da7",
+            "FileHash": "3e68029a05710192ed05be1c0a596da7",
+            "FileCRC": "d484fe30",
+            "FileSize": 450,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "assets_bundles_configs_bytes_weapon_tbweapon_bytes.rawfile",
+            "FileName": "a17956743f5a438ecf64d79228759936",
+            "FileHash": "a17956743f5a438ecf64d79228759936",
+            "FileCRC": "b995da24",
+            "FileSize": 151,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "share_packages_com.unity.textmeshpro_editor resources_gizmos.bundle",
+            "FileName": "43e05b9b65a00dedf0df95a4681271c8",
+            "FileHash": "43e05b9b65a00dedf0df95a4681271c8",
+            "FileCRC": "33ada708",
+            "FileSize": 5550,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileName": "381c7b9e669f324e392e89e1d109a8e4",
+            "FileHash": "381c7b9e669f324e392e89e1d109a8e4",
+            "FileCRC": "0180a354",
+            "FileSize": 33671,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "share_assets_textmesh pro_resources_fonts & materials.bundle",
+            "FileName": "9f55b964439a81b4efc4755170c8b72d",
+            "FileHash": "9f55b964439a81b4efc4755170c8b72d",
+            "FileCRC": "4c2b5439",
+            "FileSize": 373494,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        },
+        {
+            "BundleName": "share_assets_textmesh pro_fonts.bundle",
+            "FileName": "fa7828173422324cf9ed0405ed7f0bb1",
+            "FileHash": "fa7828173422324cf9ed0405ed7f0bb1",
+            "FileCRC": "cd79ea88",
+            "FileSize": 227265,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": []
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2287024179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3a13dc7bc57f4aae9386147fe1e7da1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4ca63f7c5b33f6ee52f6b84fdbb91bb
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 804626d53df440c4abfdda97ecf30827, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ZFramework.Core
+  ClassName: ZFramework.Core.UIViewInfo
+Assets:
+- Assets/Bundles/Configs/UI/UIViewSetting.asset
+Dependencies: []

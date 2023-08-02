@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "name": "匕首",
+    "desc": "",
+    "price": 100,
+    "quality": 1
+  },
+  {
+    "id": 102,
+    "name": "短斧",
+    "desc": "",
+    "price": 100,
+    "quality": 1
+  },
+  {
+    "id": 103,
+    "name": "长剑",
+    "desc": "",
+    "price": 100,
+    "quality": 1
+  },
+  {
+    "id": 104,
+    "name": "弓箭",
+    "desc": "",
+    "price": 100,
+    "quality": 1
+  },
+  {
+    "id": 105,
+    "name": "长枪",
+    "desc": "",
+    "price": 100,
+    "quality": 1
+  },
+  {
+    "id": 201,
+    "name": "精致匕首",
+    "desc": "",
+    "price": 200,
+    "quality": 2
+  },
+  {
+    "id": 202,
+    "name": "精致短斧",
+    "desc": "",
+    "price": 200,
+    "quality": 2
+  },
+  {
+    "id": 203,
+    "name": "精致长剑",
+    "desc": "",
+    "price": 200,
+    "quality": 2
+  },
+  {
+    "id": 204,
+    "name": "精致弓箭",
+    "desc": "",
+    "price": 200,
+    "quality": 2
+  },
+  {
+    "id": 205,
+    "name": "精致长枪",
+    "desc": "",
+    "price": 200,
+    "quality": 2
+  }
+]

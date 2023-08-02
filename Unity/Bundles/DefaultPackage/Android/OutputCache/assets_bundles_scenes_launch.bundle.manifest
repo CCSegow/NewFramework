@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3749881188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1ff2bb3e662d9585fbb33a151b6c9eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc186507a075323a823bc328734d561c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61aae67831b524bc794055a314757fef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 907ca8f3e3315274cb662c1cbe9f9ddf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5affa488e6f4a338cc69539c19c530d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c01250bd5613a614f8fb17b3e4e520e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2fe48dd1bd2f99489d6a5ea9ba338f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8118ce3d503e443ca5533207934732d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17de77a74596ceb4ca46fbe8e3625b12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9130ee563f13cc7459df2921d99a3420, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Scenes/Launch.unity
+Dependencies: []

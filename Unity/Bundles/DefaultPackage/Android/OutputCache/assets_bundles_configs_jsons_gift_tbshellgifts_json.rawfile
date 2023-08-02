@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "新手礼包",
+    "desc": "",
+    "price": 6,
+    "items": [
+      [
+        1,
+        1000
+      ],
+      [
+        2,
+        50
+      ]
+    ],
+    "show_texture": [
+      "pic1",
+      "pic2"
+    ],
+    "show_effects": [
+      "eff1",
+      "eff2",
+      "eff3"
+    ],
+    "items_ex": [
+      {
+        "itemId": 1,
+        "num": 20
+      },
+      {
+        "itemId": 2,
+        "num": 1000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "升级礼包",
+    "desc": "",
+    "price": 60,
+    "items": [
+      [
+        1,
+        1000
+      ],
+      [
+        2,
+        50
+      ]
+    ],
+    "show_texture": [
+      "pic1",
+      "pic2",
+      "pic3"
+    ],
+    "show_effects": [
+      "eff1",
+      "eff2",
+      "eff3"
+    ],
+    "items_ex": [
+      {
+        "itemId": 1,
+        "num": 10
+      },
+      {
+        "itemId": 5,
+        "num": 100
+      },
+      {
+        "itemId": 6,
+        "num": 1
+      }
+    ]
+  }
+]

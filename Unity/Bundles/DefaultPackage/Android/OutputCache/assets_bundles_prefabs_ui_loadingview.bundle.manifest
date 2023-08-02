@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 4060875710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa68bb8a599df22f8fc12adbe1f6258b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25aaf8107c40b546bf70a298b53c2c41
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 362d5cd727667ed4ab57c4948bfc9b15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ff15cc0c11db9444b7aeea97c35ad6f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Bundles/Prefabs/UI/LoadingView.prefab
+Dependencies:
+- F:/MiniGameFramework/Unity/Bundles/DefaultPackage/Android/OutputCache/share_assets_textmesh
+  pro_resources_fonts & materials.bundle

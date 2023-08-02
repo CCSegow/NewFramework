@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185f6993d5150494d98da50e26cb1c25, type: 3}
+  m_Name: AssetBundleCollectorSetting
+  m_EditorClassIdentifier: 
+  ShowPackageView: 1
+  EnableAddressable: 0
+  UniqueBundleName: 0
+  Packages:
+  - PackageName: DefaultPackage
+    PackageDesc: "\u9996\u5305"
+    Groups:
+    - GroupName: UI
+      GroupDesc: "\u754C\u9762"
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Bundles/Prefabs/UI
+        CollectorGUID: 87d0416369e80ee44a9b5fb2cfe26fa5
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectAll
+        AssetTags: 
+      - CollectPath: Assets/Bundles/Configs/UI
+        CollectorGUID: 9d8c8493437d2bf408e98fc02705da59
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: Scene
+      GroupDesc: "\u573A\u666F"
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Bundles/Scenes
+        CollectorGUID: 56bcea3c33a23a44eb73b5b40aefe38a
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackSeparately
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: Shader
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors: []
+    - GroupName: Code
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Bundles/Prefabs/Logic
+        CollectorGUID: c185605dd0cb45f4b98fec10cf29b9de
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+      - CollectPath: Assets/Bundles/Code
+        CollectorGUID: 6db289735a44dec42804d6e1a57804a1
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackRawFile
+        FilterRuleName: CollectAll
+        AssetTags: 
+    - GroupName: Config
+      GroupDesc: 
+      AssetTags: 
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/Bundles/Configs/Jsons
+        CollectorGUID: 1e6e5a404a97bd84184e3b0ab434c4da
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackRawFile
+        FilterRuleName: CollectAll
+        AssetTags: 
+      - CollectPath: Assets/Bundles/Configs/Bytes
+        CollectorGUID: c95e1ce8bf464714bab34d742fbbfd7e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackRawFile
+        FilterRuleName: CollectAll
+        AssetTags: 
